@@ -5,3 +5,7 @@ body {
 body .bod {
   font-size: 13px;
 }
+
+.block .cls_btn {
+  color: #fff;
+}
